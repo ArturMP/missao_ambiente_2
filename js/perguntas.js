@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com um grupo de jovens maltratando um animal silvestre, qual é a sua reação?",
+        enunciado: "Assim que saiu da escola, você se depara com um grupo de jovens maltratando um animal silvestre, qual é a sua reação?",
         alternativas: [
             {
                 texto: "Eu ligaria para a policia ambiental e esperaria ela chegar para puni-los",
@@ -21,20 +21,20 @@ export const perguntas = [
         ]
     },      
     {
-        enunciado: "Enquanto assistia televisão, se deparou com inúmeras notícias sobre a atual situação da saúde ecológica do país, que por sinal, não parece estar muito boa, oque você pensa?",
+        enunciado: "Enquanto assistia televisão, você deparou com inúmeras notícias sobre a atual situação da saúde ecológica do país, que por sinal, não parece estar muito boa, oque você pensa?",
         alternativas: [
             {
                 texto: "Eu deveria fazer a minha parte para tentar mudar essa situação e icentivar os outros a fazer o mesmo.",
                 afirmacao: [
                     "Diminuir a poluição é díficil,  porém você sabe que com pequenos esforços pode melhorar o meio ambiente.",
-                    "Ao entender que é preciso alguns esforços para salvar o planeta, voccê se sente movitvado com notícias do assunto",
+                    "Ao entender que é preciso alguns esforços para salvar o planeta, você se sente movitvado com notícias do assunto",
                 ],
                 proxima: 2,
             },
             {
                 texto: "Não há o que eu possa fazer, independente da boa ação, o mundo vai acabar um dia mesmo.",
                 afirmacao: [
-                    "Não há o que eu possa fazer, independente da boa ação, o mundo vai acabar um dia mesmo.",
+                    "No fundo, ocê ficou desacreditado de que o mundo possa melhorar",
                     "Parecia que o mundo estava entrando em colapso, então não acreditava em salvação",
                 ],
                 proxima: 2,
